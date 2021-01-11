@@ -11,4 +11,4 @@ How to install the demo files
 Upcoming Features
 1. About section on the sidebar with profile image
 2. Translations Ready
-3. If you have 
+3. For any other features please do let me know.
