@@ -9,6 +9,6 @@ How to install the demo files
 5. upload the juliette-wp-export.dat file and click import. 
 
 Added Features
-1. About section on the sidebar with profile image
+1. Added user profile sidebar
 2. Made the theme Translations Ready
 
